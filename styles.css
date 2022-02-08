@@ -1,0 +1,30 @@
+/* this changes three of the default styles and many webdeisgners include this in teh top of every style they create. */
+
+
+
+main {
+  max-width: 1000px;
+  margin:auto;
+
+}
+
+body {
+  padding-top: 30px;
+font-family: 'Roboto', sans-serif;
+}
+
+div.a {
+  text-align:center;
+}
+
+div.b {
+  text-align:right;
+}
+
+div.c {
+  text-align:justify;
+}
+
+div.d {
+  text-align:center;
+}
